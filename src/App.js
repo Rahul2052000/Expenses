@@ -4,7 +4,7 @@ import { useState } from "react";
 const DUMMY_EXPENSES  = [
   {
     id: "e1",
-    title: "Toilet Paper",
+    title: "Laptop",
     amount: 94.12,
     date: new Date(2020, 7, 14),
   },
